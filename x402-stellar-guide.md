@@ -1,4 +1,4 @@
-# Using x402 on Stellar with Freighter Wallet
+# DO NOT USE - WORKING DOC - Using x402 on Stellar with Freighter Wallet
 
 x402 is an open protocol that embeds payments directly into HTTP using the long-dormant `402 Payment Required` status code. On Stellar, it uses Soroban smart contracts and SEP-41 tokens to enable instant, per-request micropayments — without processing fees and with ~2-second settlement times. This makes it ideal for payment-gated APIs, AI agent services, and content paywalls.
 
